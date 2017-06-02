@@ -1,0 +1,29 @@
+{
+  "name": "zendesk-test",
+  "version": "1.0.0",
+  "description": "This is to test the Zendesk API",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hz3k/zendesk-test.git"
+  },
+  "author": "Henry Ameseder <henry@getmimo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hz3k/zendesk-test/issues"
+  },
+  "homepage": "https://github.com/hz3k/zendesk-test#readme"
+}
